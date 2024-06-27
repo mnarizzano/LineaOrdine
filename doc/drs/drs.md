@@ -186,3 +186,6 @@ specifications    </p>
     </summary>
     <p>This sub section should describe ...</p>
 </details>
+
+
+![Class Diagram](imgs/sequence.png)
